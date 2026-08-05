@@ -1,13 +1,8 @@
-<!--
-Hi there! 👋
-Welcome to my profile.
--->
+# Hi there! 👋
 
-# Alex Boulanger
+i'm Alex, a **Full-Stack Developer** and **Product Enthousiast**
 
-**Full-Stack Developer · Product Enthousiast**
-
-Building software that solves real problems—from product discovery to production deployment
+Building software that solves real problems, from discovery to production deployment
 
 I enjoy working at the intersection of **engineering**, **product thinking**, and **AI**, helping teams ship high-quality software while improving the way developers build it.
 
@@ -15,7 +10,7 @@ Currently building healthcare products at **PulseLife**
 
 ---
 
-## 👋 About Me
+## ✌️ About Me
 
 - 💼 Full-stack developer with **6+ years** building digital products
 - 🏥 Currently developing healthcare software at **PulseLife**
@@ -26,43 +21,46 @@ Currently building healthcare products at **PulseLife**
 - 📍 Based in Lyon, France (Brussels, soon)
 
 ---
-
 ## 🛠 Tech Stack
 
-### Languages
+```ts
+const stack = {
+  languages: [
+    "TypeScript",
+    "SQL",
+    "HTML",
+    "CSS"
+  ],
 
-```text
-TypeScript • JavaScript • SQL • HTML • CSS
-```
+  frontend: [
+    "React",
+    "React Native",
+    "TanStack Stack",
+    "Next.js",
+    "Redux",
+    "Tailwind CSS"
+  ],
 
-### Frontend
+  backend: [
+    "Node.js",
+    "REST APIs",
+    "OpenAPI",
+    "NestJS"
+  ],
 
-```text
-React • React Native • Next.js • TanStack Stack • Redux • Tailwind CSS • Apollo
-```
+  architecture: [
+    "Slice Based Architecture",
+    "Clean Architecture",
+    "Monorepos",
+    "CI/CD"
+  ],
 
-### Backend
-
-```text
-Node.js • Express • REST APIs • OpenAPI • NestJS
-```
-
-### Architecture
-
-```text
-Slice based Architecture • Clean Architecture • Monorepos • CI/CD
-```
-
-### Data
-
-```text
-PostgreSQL • MySQL • SQLite
-```
-
-### Tools
-
-```text
-Git • Docker • GitHub Actions • Figma • Jira • VS Code
+  databases: [
+    "PostgreSQL",
+    "MySQL",
+    "SQLite"
+  ]
+};
 ```
 
 ---
