@@ -1,5 +1,3 @@
-🤖 Full-stack developer at PulseLife
-
 ✌️ I build web products, automate developer workflows, and experiment with AI coding agents.
 
 Currently interested in:
