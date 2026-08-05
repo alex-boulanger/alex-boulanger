@@ -1,16 +1,6 @@
-# Hi there! 👋
-
-i'm Alex, a **Full-Stack Developer** and **Product Enthousiast**
-
-Building software that solves real problems, from discovery to production deployment
-
-I enjoy working at the intersection of **engineering**, **product thinking**, and **AI**, helping teams ship high-quality software while improving the way developers build it.
-
-Currently building healthcare products at **PulseLife**
-
----
-
 ## ✌️ About Me
+
+I'm Alex, I enjoy working at the intersection of **engineering** and **product thinking**, helping teams ship high-quality software while improving the way developers build it.
 
 - 💼 Full-stack developer with **6+ years** building digital products
 - 🏥 Currently developing healthcare software at **PulseLife**
@@ -19,49 +9,6 @@ Currently building healthcare products at **PulseLife**
 - 🤖 Building AI workflows using coding agents, LLMs and reusable AI skills
 - 🇫🇷 Native French • 🇬🇧 Professional English
 - 📍 Based in Lyon, France (Brussels, soon)
-
----
-## 🛠 Tech Stack
-
-```ts
-const stack = {
-  languages: [
-    "TypeScript",
-    "SQL",
-    "HTML",
-    "CSS"
-  ],
-
-  frontend: [
-    "React",
-    "React Native",
-    "TanStack Stack",
-    "Next.js",
-    "Redux",
-    "Tailwind CSS"
-  ],
-
-  backend: [
-    "Node.js",
-    "REST APIs",
-    "OpenAPI",
-    "NestJS"
-  ],
-
-  architecture: [
-    "Slice Based Architecture",
-    "Clean Architecture",
-    "Monorepos",
-    "CI/CD"
-  ],
-
-  databases: [
-    "PostgreSQL",
-    "MySQL",
-    "SQLite"
-  ]
-};
-```
 
 ---
 
@@ -81,12 +28,4 @@ Things I care about:
 
 ---
 
-## 📫 Connect
-
-- 🌐 Home: **https://alex-boulanger.dev**
-- 💼 LinkedIn: **https://linkedin.com/in/alex-boulanger**
-- 📧 Email: **alexbakerdeveloper@gmail.com**
-
----
-
-> *"Great software isn't just well engineered—it's useful, maintainable, and enjoyable to build."*
+*"Great software isn't just well engineered — It's useful, maintainable, and enjoyable to build."*
