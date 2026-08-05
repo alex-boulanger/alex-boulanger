@@ -10,8 +10,6 @@ I'm Alex, I enjoy working at the intersection of **engineering** and **product t
 - 🇫🇷 Native French • 🇬🇧 Professional English
 - 📍 Based in Lyon, France (Brussels, soon)
 
----
-
 ## 🧩 Engineering Philosophy
 
 I enjoy working on software that balances technical quality with business impact.
@@ -24,7 +22,6 @@ Things I care about:
 - Improving developer experience
 - Shipping frequently
 - Automating repetitive work
-- Leveraging AI where it genuinely increases productivity
 
 ---
 
