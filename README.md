@@ -1,8 +1,10 @@
-✌️ I build web products, automate developer workflows, and experiment with AI coding agents.
+✌️ I build web products mainly with TypeScript.
 
-Currently interested in:
+Currently working on AI in healthcare and experimenting with coding agents.
+
+Things I care about:
 - Product engineering
 - Developer experience
-- AI tooling
+- Software design
 
-📍 Based in Lyon, France (Brussels, soon)
+📍 Lyon → Brussels
