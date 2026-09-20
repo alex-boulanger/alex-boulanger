@@ -1,6 +1,6 @@
 ✌️ I build web products mainly with TypeScript.
 
-Currently working on AI in healthcare and experimenting with coding agents.
+Currently working in healthcare
 
 Things I care about:
 - Product engineering
